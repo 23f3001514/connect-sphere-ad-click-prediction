@@ -46,18 +46,21 @@ The test set is small and the data is unusually clean (50% click rate). Real cam
 
 ```
 ├── data/advertising.csv
-├── notebooks/CTR_advertisement.ipynb
-├── reports/ConnectSphere_CTR_Project_Report.pdf
-└── requirements.txt
+├── Notebook/CTR_advertisement.ipynb
+├── report/ConnectSphere_CTR_Project_Report.pdf
+├── requirements.txt
+└── LICENSE
 ```
 
 ## How to run
 
 ```bash
-git clone https://github.com/23f3001514/ctr-prediction-logistic-regression.git
-cd ctr-prediction-logistic-regression
+git clone https://github.com/23f3001514/connect-sphere-ad-click-prediction.git
+cd connect-sphere-ad-click-prediction
 pip install -r requirements.txt
-jupyter notebook notebooks/CTR_advertisement.ipynb
+jupyter notebook Notebook/CTR_advertisement.ipynb
+```
+
 ```
 
 ## Tech stack
