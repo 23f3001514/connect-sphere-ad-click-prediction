@@ -67,7 +67,3 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
 ## Full report
 
 See [`reports/ConnectSphere_CTR_Project_Report.pdf`](reports/ConnectSphere_CTR_Project_Report.pdf) for the complete write-up.
-
-## Author
-
-Your Name · [GitHub](https://github.com/23f3001514)
