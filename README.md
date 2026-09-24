@@ -63,7 +63,3 @@ jupyter notebook notebooks/CTR_advertisement.ipynb
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
-
-## Full report
-
-See [`reports/ConnectSphere_CTR_Project_Report.pdf`](reports/ConnectSphere_CTR_Project_Report.pdf) for the complete write-up.
